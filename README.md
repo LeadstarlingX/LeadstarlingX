@@ -39,5 +39,5 @@ While my current passion is the backend, I am excited about the possibility of g
 
 I'm always open to connecting with other developers, learning new things, and discussing technology. Feel free to reach out!
 
-* **Email:** `your-email@example.com`
-* **LinkedIn:** `[Link to your LinkedIn profile]`
+* **Email:** saad.aswad.16@gmail.com
+
