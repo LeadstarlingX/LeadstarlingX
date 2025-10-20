@@ -2,7 +2,7 @@
 
 I'm a final-year Software Engineering student at the Higher Institute for Applied Science and Technology (HIAST). I am deeply passionate about backend development and am on a mission to build clean, high-quality, and sustainable applications with .NET.
 
-My philosophy is that great software is built on a foundation of solid design and rigorous testing. I focus on creating readable and maintainable code, inspired by the best practices in the industry and educators like Mosh Hamedani.
+My philosophy is that great software is built on a foundation of solid design and rigorous testing. I am driven by the pursuit of creating innovative solutions for the modern web.
 
 ---
 
