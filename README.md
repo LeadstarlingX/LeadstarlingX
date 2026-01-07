@@ -1,22 +1,22 @@
 # Hi there, I'm Saad Aswad 👋
 
-I'm a final-year Software Engineering student at the Higher Institute for Applied Science and Technology (HIAST). I am deeply passionate about backend development and am on a mission to build clean, high-quality, and sustainable applications with .NET.
+I'm a final-year Software Engineering student at HIAST, specializing in the design of high-integrity backend systems. My journey has evolved from mastering implementation to architecting solutions that prioritize sustainability, clean design, and production-grade reliability.
 
-My philosophy is that great software is built on a foundation of solid design and rigorous testing. I am driven by the pursuit of creating innovative solutions for the modern web.
+My philosophy is that professional software is defined by its architectural rigor and constant validation. I am driven by the challenge of building complex, observable systems that stand up to the demands of the modern web.rn web.
 
 ---
 
 ### 🌱 What I'm Focusing On
 
-I am building my expertise in the essential areas of modern backend development to create professional, production-ready applications.
+I have sharpened my focus on the essential pillars of enterprise backend development to create systems that are truly production-ready.
 
-* **🧱 Architectures & Design Patterns:** Applying patterns like **Clean Architecture** to create scalable, maintainable, and loosely-coupled systems.
-* **✍️ RESTful API Design:** Focusing on creating well-structured and intuitive APIs based on **RESTful design principles**.
-* **🧪 Comprehensive Testing:** I believe testing is crucial for reliability. I practice **Unit Testing** and **Integration Testing** to ensure my code is robust and works as expected before deployment.
-* **💻 Backend with .NET:** Mastering the construction of powerful APIs with **ASP.NET Core** and managing data efficiently with **Entity Framework Core**.
-* **🛡️ Upcoming: Security:** My next learning goal is to dive into application security, focusing on implementing proper authentication and authorization.
-
-While my current passion is the backend, I am excited about the possibility of growing into a full-stack developer in the future.
+* **🏛️ Architectural Excellence: Applying Clean Architecture, DDD, and CQRS to build scalable, loosely-coupled systems that manage business complexity gracefully.
+* **📊 Observability & Metrics: Leveraging OpenTelemetry, Prometheus, and Grafana to move beyond simple logging into proactive system instrumentation and monitoring.
+* **🛡️ Security & IAM: Implementing robust authentication and authorization flows using Keycloak and modern OAuth2/OIDC standards.
+* **🧪 High-Fidelity Testing: Ensuring total reliability through advanced Integration Testing (Testcontainers) and Architecture Testing to validate system boundaries.
+* **⚡ Core .NET Mastering: Building high-performance services with .NET 9, focusing on efficiency, concurrency, and clean data access with EF Core.
+* 
+While I am currently mastering the depth of the backend, I am strategically expanding my skills toward becoming a highly proficient full-stack developer.
 
 ---
 
