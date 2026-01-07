@@ -10,12 +10,12 @@ My philosophy is that professional software is defined by its architectural rigo
 
 I have sharpened my focus on the essential pillars of enterprise backend development to create systems that are truly production-ready.
 
-* **🏛️ Architectural Excellence: Applying Clean Architecture, DDD, and CQRS to build scalable, loosely-coupled systems that manage business complexity gracefully.
-* **📊 Observability & Metrics: Leveraging OpenTelemetry, Prometheus, and Grafana to move beyond simple logging into proactive system instrumentation and monitoring.
-* **🛡️ Security & IAM: Implementing robust authentication and authorization flows using Keycloak and modern OAuth2/OIDC standards.
-* **🧪 High-Fidelity Testing: Ensuring total reliability through advanced Integration Testing (Testcontainers) and Architecture Testing to validate system boundaries.
-* **⚡ Core .NET Mastering: Building high-performance services with .NET 9, focusing on efficiency, concurrency, and clean data access with EF Core.
-* 
+* 🏛️ **Architectural Excellence**: Applying Clean Architecture, DDD, and CQRS to build scalable, loosely-coupled systems that manage business complexity gracefully.
+* 📊 **Observability & Metrics**: Leveraging OpenTelemetry, Prometheus, and Grafana to move beyond simple logging into proactive system instrumentation and monitoring.
+* 🛡️ **Security & IAM**: Implementing robust authentication and authorization flows using Keycloak and modern OAuth2/OIDC standards.
+* 🧪 **High-Fidelity Testing**: Ensuring total reliability through advanced Integration Testing (Testcontainers) and Architecture Testing to validate system boundaries.
+* ⚡ **Core .NET Masterin**g: Building high-performance services with .NET 9, focusing on efficiency, concurrency, and clean data access with EF Core.
+
 While I am currently mastering the depth of the backend, I am strategically expanding my skills toward becoming a highly proficient full-stack developer.
 
 ---
